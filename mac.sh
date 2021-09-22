@@ -1,0 +1,10 @@
+#! /bin/bash
+xterm -title "Stock Info Service" -hold -e "cd PublisherLayer & cd StockInfoService & cd target & java -jar stock-info-service.jar"
+xterm -title "VolumeOverTimeService" -hold -e "cd PublisherLayer & cd VolumeOverTimeService & cd target & java -jar volume-over-time-service.jar"
+xterm -title "PriceOverTimeService" -hold -e "cd PublisherLayer & cd PriceOverTimeService & cd target & java -jar price-over-time-service.jar"
+xterm -title "TopVolumeService" -hold -e "cd PublisherLayer & cd TopVolumeService & cd target & java -jar top-volume-service.jar"
+xterm -title "ServiceManager" -hold -e "cd PublisherLayer & cd ServiceManager & cd target & java -jar service-manager.jar"
+xterm -title "DataManager" -hold -e "cd PublisherLayer & cd DataManager & cd target & java -jar data-manager.jar"
+xterm -title "MessageManager" -hold -e "cd MessageLayer & cd MessageManager & cd target & java -jar message-layer.jar"
+xterm -title "ServiceRegistry" -hold -e "cd PublisherLayer & cd ServiceRegistry & cd target & java -jar service-registry.jar"
+xterm -title "SubscriberLayer" -hold -e "cd SubscriberLayer & cd target & java -jar subscriber-layer.jar"

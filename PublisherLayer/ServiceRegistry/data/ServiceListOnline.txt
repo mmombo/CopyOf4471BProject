@@ -1,0 +1,10 @@
+20110616
+ServiceRegistry,This is a Service Registry,3.142.242.98,2503
+ServiceManager,This is a Service Manager,3.137.147.138,2502
+DataManager,This is a Data Manager,13.58.108.69,2504
+MessageManager,This is a Message Manager,3.129.14.156,2501
+StockInfoService,This is a Stock Info Service,18.220.244.12,2505
+TopVolumeService,This is a Top Volume Service,18.219.126.10,2509
+VolumeOverTimeService,This is a Volume Over Time Service,3.16.46.114,2506
+PriceOverTimeService,This is a Price Over Time Service,3.17.207.92,2507
+CurrencyExchangeService,This is a Currency Exchange Service,18.218.121.42,2511

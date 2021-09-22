@@ -1,0 +1,10 @@
+20110616
+ServiceRegistry,This is a Service Registry,127.0.0.1,2503
+ServiceManager,This is a Service Manager,127.0.0.1,2502
+DataManager,This is a Data Manager,127.0.0.1,2504
+MessageManager,This is a Message Manager,127.0.0.1,2501
+StockInfoService,This is a Stock Info Service,127.0.0.1,2505
+TopVolumeService,This is a Top Volume Service,127.0.0.1,2509
+VolumeOverTimeService,This is a Volume Over Time Service,127.0.0.1,2506
+PriceOverTimeService,This is a Price Over Time Service,127.0.0.1,2507
+CurrencyExchangeService,This is a Currency Exchange Service,127.0.0.1,2511

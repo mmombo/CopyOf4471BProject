@@ -1,0 +1,1 @@
+start cmd /k "cd SubscriberLayer & cd target & java -jar subscriber-layer.jar 2500 3.129.14.156"

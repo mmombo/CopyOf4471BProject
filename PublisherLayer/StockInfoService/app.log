@@ -1,0 +1,5 @@
+18:24:24 [main] INFO  StockInfoService - Starting StockInfoService
+18:24:45 [main] INFO  StockInfoService - Received a Message
+18:24:45 [main] INFO  StockInfoService - The message is a RefreshResponse
+18:24:45 [main] INFO  StockInfoService - It contains new data for me!
+18:24:45 [main] INFO  StockInfoService - Making pre-processed data file for the StockInfoService: 20110113.txt
