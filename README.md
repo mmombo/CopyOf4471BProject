@@ -4,8 +4,9 @@ Copied from Private School Repository.
 
 Originally authored by: 
 
-Andrew Bloch-Hansen
-Christian Whetham
-Bazillah Zargar
-Eric Chen
-Matt Mombourquette
+-Andrew Bloch-Hansen
+-Matt Mombourquette
+-Christian Whetham
+-Bazillah Zargar
+-Eric Chen
+
